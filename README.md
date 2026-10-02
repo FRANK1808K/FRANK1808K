@@ -1,30 +1,35 @@
-<div align="center"> <img src="https://github.com/FRANK1808K.png" width="140" style="border-radius:50%" alt="Frank Sebastián Mena" />
-Frank Sebastián Mena
-Derecho + Tecnología · Datos · Inteligencia Artificial · Nube
+# Frank Sebastián Mena
 
-📍 Quibdó, Chocó, Colombia
+Estudiante de Derecho con formación complementaria en programación, análisis de datos e inteligencia artificial. Quibdó, Chocó, Colombia.
 
-LinkedIn
+## Perfil
 
-</div>
-👋 Sobre mí
-Soy estudiante de Derecho y me estoy formando en programación, análisis de datos e inteligencia artificial. Me interesa especialmente la computación en la nube con AWS.
+Me dedico a la intersección entre el derecho y la tecnología. Combino el rigor del análisis jurídico con herramientas de desarrollo de software, datos e inteligencia artificial para abordar problemas de LegalTech, protección de datos y transformación digital. Actualmente profundizo en computación en la nube con AWS.
 
-Mi objetivo es unir dos mundos: el rigor jurídico y el poder de la tecnología, para construir soluciones útiles en áreas como LegalTech, automatización de procesos y análisis de información.
+## Áreas de interés
 
+- LegalTech e innovación jurídica
+- Inteligencia artificial aplicada al derecho y gobernanza de la IA
+- Protección de datos y ciberseguridad legal
+- Análisis de datos aplicado a la investigación jurídica
+- Arquitectura y servicios en la nube (AWS)
 
-IurisCode
-Mi sitio web y hoja de vida digital, construido con Next.js y Supabase.
+## Proyecto destacado
 
-En aprendizaje: ☁️ AWS · 📊 Análisis de datos · 🤖 Inteligencia artificial
+**[IurisCode](https://github.com/FRANK1808K/iuriscode-web)** · [Sitio en producción](https://iuriscode.vercel.app)
 
-🎯 Intereses
-⚖️ LegalTech e innovación jurídica
-☁️ Arquitectura y servicios en la nube (AWS)
-📊 Análisis de datos aplicado al derecho
-🤖 IA para automatizar 
+Sitio web y portafolio profesional orientado a LegalTech. Incluye secciones de investigación, proyectos, eventos, blog y contacto, con contenido gestionado desde una base de datos.
 
-📫 Contacto
-Conectemos en LinkedIn.
+Tecnologías: Next.js, React, TypeScript, Tailwind CSS, Supabase, Vercel.
 
-<div align="center"> <sub>Aprendiendo en público, un commit a la vez. 🌱</sub> </div>
+## Tecnologías
+
+- **Desarrollo web:** Next.js, React, TypeScript, HTML, Tailwind CSS
+- **Datos y backend:** Supabase (PostgreSQL), SQL
+- **Despliegue y control de versiones:** Vercel, Git, GitHub
+- **En formación:** AWS, análisis de datos, inteligencia artificial
+
+## Contacto
+
+- LinkedIn: [Frank Sebastián Mena](https://www.linkedin.com/in/franksebasti%C3%A1nmena/)
+- Sitio web: [iuriscode.vercel.app](https://iuriscode.vercel.app)
