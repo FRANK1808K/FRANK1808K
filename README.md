@@ -12,12 +12,9 @@ Soy estudiante de Derecho y me estoy formando en programación, análisis de dat
 
 Mi objetivo es unir dos mundos: el rigor jurídico y el poder de la tecnología, para construir soluciones útiles en áreas como LegalTech, automatización de procesos y análisis de información.
 
-🚀 Proyecto destacado
+
 IurisCode
 Mi sitio web y hoja de vida digital, construido con Next.js y Supabase.
-
-🛠️ Tecnologías y áreas de estudio
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
 En aprendizaje: ☁️ AWS · 📊 Análisis de datos · 🤖 Inteligencia artificial
 
@@ -25,7 +22,8 @@ En aprendizaje: ☁️ AWS · 📊 Análisis de datos · 🤖 Inteligencia artif
 ⚖️ LegalTech e innovación jurídica
 ☁️ Arquitectura y servicios en la nube (AWS)
 📊 Análisis de datos aplicado al derecho
-🤖 IA para automatizar y entender información legal
+🤖 IA para automatizar 
+
 📫 Contacto
 Conectemos en LinkedIn.
 
